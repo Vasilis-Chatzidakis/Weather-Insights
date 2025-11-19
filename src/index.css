@@ -75,6 +75,10 @@ input:focus {
   background-color: #eabfb9;
 }
 
+.search_location-text{
+  text-align: center;
+}
+
 .weather {
   list-style: none;
   display: flex;
