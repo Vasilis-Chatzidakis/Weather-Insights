@@ -119,6 +119,7 @@ class Input extends React.Component {
     return (
       <div>
         <input
+          className="search_location-text"
           type="text"
           placeholder="Search Location"
           value={this.props.location}
